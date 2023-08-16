@@ -22,7 +22,7 @@ export default function Auth() {
             </form>
             <div>
               <div className='linkContainer'><a href='https://nairarefill.com/forgot-password' className='link'>Forgot username or aassword?</a></div>
-              <a href='https://nairarefill.com/signup'>Don't have an account? <Sign up</a>
+              <a href='https://nairarefill.com/signup'>Don't have an account? Sign up</a>
             </div>
         </div>
         <div className='imageConainer'>Image</div>

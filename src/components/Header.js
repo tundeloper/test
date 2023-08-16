@@ -6,10 +6,10 @@ export default function Header() {
           <div className={style.logo}>nairafill</div>
           <div className={style.buttonContainer}>
               <div >
-                  <button className={style.button}>Register</button>
+                  <a href='https://nairarefill.com/signup' className={style.button}>Register</a>
               </div>
               <div>
-                  <button className={style.button}>login</button>
+                  <a href='https://nairarefill.com/signin' className={style.button}>Login</a>
               </div>
           </div>
     </div>

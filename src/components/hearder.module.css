@@ -4,10 +4,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
+    margin-bottom: .2rem;
 }
 
 .logo{
     font-size: 2rem;
+    color: #eb7434;
 }
 
 .buttonContainer {
