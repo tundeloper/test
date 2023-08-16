@@ -6,6 +6,10 @@
     padding: 1rem;
 }
 
+.logo{
+    font-size: 2rem;
+}
+
 .buttonContainer {
     display: flex;
     flex-direction: row;

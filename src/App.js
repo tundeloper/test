@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Auth from "./components/auth";
+import Auth from "./components/auth/auth";
 
 function App() {
   return (

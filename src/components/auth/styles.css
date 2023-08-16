@@ -1,0 +1,71 @@
+.auth {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.imageConainer {
+    flex: 2;
+    min-height: 100vh;
+    background-image: url('https://nairarefill.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsignUp_img.a838b04b.jpg&w=1080&q=75');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formContainer {
+    flex: 1;
+    width: 5rem;
+    min-height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainer div {
+    width: 20rem;
+    margin-bottom: 1rem;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+input {
+    height: 1.5rem;
+    padding: 7px;
+}
+
+input:focus {
+    outline: 0;
+}
+
+.loginBtn {
+    width: 100%;
+    padding: .5rem;
+    background-color: #eb7434;
+    color: white;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+}
+
+.linkContainer {
+    margin-top: 1rem;
+
+}
+
+.link {
+    font-size: .8rem;
+    width: 100%;
+}
+/* 
+a p [
+    color: blue
+] */

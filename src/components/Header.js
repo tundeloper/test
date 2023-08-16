@@ -3,7 +3,7 @@ import style from './hearder.module.css'
 export default function Header() {
   return (
       <div className={style.container}>
-          <div>nairafill</div>
+          <div className={style.logo}>nairafill</div>
           <div className={style.buttonContainer}>
               <div >
                   <button className={style.button}>Register</button>
