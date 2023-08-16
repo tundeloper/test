@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img {
+    width: 70%;
+    min-height: 4rem;
+    background-color: red;
+}
+
+.form {
+    background-color: blue;
+    width: 70%;
+    min-height: 4rem;
+}
