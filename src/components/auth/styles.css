@@ -70,6 +70,9 @@ input:focus {
     font-size: .8rem;
     width: 100%;
 }
+.signUp {
+    font-size: .8rem
+}
 /* 
 a p [
     color: blue
