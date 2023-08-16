@@ -25,7 +25,7 @@ export default function Auth() {
               <a href='https://nairarefill.com/signup'>Don't have an account? Sign up</a>
             </div>
         </div>
-        <div className='imageConainer'>Image</div>
+        <div className='imageConainer'></div>
     </div>
   )
 }
