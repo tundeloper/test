@@ -27,4 +27,23 @@
     border: 0;
     padding: .5rem;
     background-color: #eb7434;
+    animation: all .4s ease-in-out;
+}
+
+.button:hover {
+    background-color: #eca178;
+}
+
+.buttonLogIn {
+    color: white;
+    border-radius: 3px;
+    padding: .5rem;
+    color: #eb7434;
+    border: .1rem #eb7434 solid;
+    animation: all .5s ease-in-out;
+}
+
+.buttonLogIn:hover {
+    background-color: #eb7434;
+    color: white;
 }

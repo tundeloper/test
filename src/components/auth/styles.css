@@ -39,7 +39,8 @@ a {
 }
 
 label {
-    margin-bottom: .3rem;
+    margin-bottom: .2rem;
+    font-size: .8rem;
 }
 
 input {
@@ -59,6 +60,11 @@ input:focus {
     font-weight: bold;
     border: 0;
     cursor: pointer;
+    animation: .3s ease-in-out;
+}
+
+.loginBtn:hover {
+    background-color: #eca178;
 }
 
 .linkContainer {

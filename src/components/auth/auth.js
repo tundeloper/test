@@ -15,8 +15,8 @@ export default function Auth() {
               <input type='email'/>
             </div>
             <div>
-              <label>Email</label>
-              <input type='text'/>
+              <label>Password</label>
+              <input type='password'/>
             </div>
             <button className='loginBtn'>LogIn</button>
             </form>

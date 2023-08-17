@@ -9,7 +9,7 @@ export default function Header() {
                   <a href='https://nairarefill.com/signup' className={style.button}>Register</a>
               </div>
               <div>
-                  <a href='https://nairarefill.com/signin' className={style.button}>Login</a>
+                  <a href='https://nairarefill.com/signin' className={style.buttonLogIn}>Login</a>
               </div>
           </div>
     </div>
